@@ -1,17 +1,23 @@
 {
   "name": "personal-to-do-list-manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a todo list application",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/riteshmaurya089/Personal-To-Do-List-Manager.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "mongoose",
+    "nodejs",
+    "expressjs",
+    "todo-list-app"
+  ],
+  "author": "Ritesh Maurya",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/riteshmaurya089/Personal-To-Do-List-Manager/issues"
