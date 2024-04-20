@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/riteshmaurya089/Personal-To-Do-List-Manager/issues"
   },
-  "homepage": "https://github.com/riteshmaurya089/Personal-To-Do-List-Manager#readme"
+  "homepage": "https://github.com/riteshmaurya089/Personal-To-Do-List-Manager#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
+  }
 }
